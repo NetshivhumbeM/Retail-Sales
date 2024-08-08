@@ -17,6 +17,10 @@
 
 This project aims to analyze various aspects of sales and customer behavior to help the organization make more informed decisions. It involves examining sales trends, understanding customer demographics and identifying top selling products. This project also looks at product analysis, sales by gender and age-based purchasing patterns. 
 
+![Screenshot 2024-08-07 201431](https://github.com/user-attachments/assets/303dda17-491c-46af-a2bc-eafc92e1334f)
+
+
+
 ### Data Source
 
 Retail Sales data - The primary dataset used for this  analysis is "Retail_sales_dataset.csv" file, containing detailed information about each sales made by the company between 2023 and 2024 and was made accessible on kaggle.
